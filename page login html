@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"/>
+    <title>Document</title>
+</head>
+<body>
+    <div class="login-box">
+    <img src="avatar.png" class="avatar">
+       <h1>Narcos N'cook</h1>
+         <form>
+             <p>Nom d'utilsateur</p>
+             <input type="text" name="username" placeholder="Enter username">
+             <p>Mot de passe</p>
+             <input type="password" name="password" placeholder="Enter password">
+             <input type="submit" name="submit" value="Envoyer">
+             <a href="#">Mot de passe oublié</a>
+         </form>
+    </div>
+</body>
+</html>
